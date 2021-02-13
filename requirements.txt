@@ -1,0 +1,7 @@
+PyAudio‑0.2.11‑cp39‑cp39‑win_amd64.whl
+SpeechRecognition-3.8.1-py2.py3-none-any.whl 
+pyttsx3 2.90
+pyowm-3.1.1-py3-none-any.whl
+pyjokes-0.6.0-py2.py3-none-any.whl
+tweepy-3.10.0-py2.py3-none-any.whl
+pywhatkit-3.9-py3-none-any.whl 
